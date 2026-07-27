@@ -1,0 +1,56 @@
+{
+  "version": 3,
+  "savedAt": "2026-07-27T10:52:51.556Z",
+  "manualVals": {
+    "ibkr-cash": 33347,
+    "sarwa": 129688,
+    "mf1": 99208,
+    "mf2": 28412,
+    "sico": 59198,
+    "beyon": 70344,
+    "ila": 24409,
+    "btp": 22229,
+    "bancobpm-cash": 3847
+  },
+  "illiqVals": {
+    "magut": 84000,
+    "mastro": 48000,
+    "azimut-pd": 46800,
+    "azimut-vc": 22498,
+    "stake": 55796,
+    "pensione": 34052
+  },
+  "wifeMVals": {
+    "w-sarwa": 25879,
+    "w-mf1": 56212,
+    "w-mf2": 45104,
+    "w-mediob-t": 5685,
+    "w-mediob-s": 28633,
+    "w-ila-dep": 45477,
+    "w-ila-c": 1671,
+    "w-ila-usd": 650
+  },
+  "holdingQtys": {},
+  "customPositions": [],
+  "customVals": {},
+  "inhOverrides": {},
+  "targets": {
+    "eq": 54,
+    "gold": 10,
+    "deploy": 30000,
+    "surplus": 8817
+  },
+  "spendData": [],
+  "customCatRules": {},
+  "rentConfig": [
+    {
+      "amount": 900,
+      "fromMonth": "2020-01"
+    }
+  ],
+  "rentChangelog": [],
+  "journal": [],
+  "eosSalary": null,
+  "eosStart": null,
+  "eosFx": null
+}
